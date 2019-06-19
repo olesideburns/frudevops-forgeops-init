@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.1",
+    "entityType" : "Realms",
+    "entityId" : "L2FzZ3VhcmQ",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L2FzZ3VhcmQ",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "asguard",
+    "aliases" : [ ]
+  }
+}
